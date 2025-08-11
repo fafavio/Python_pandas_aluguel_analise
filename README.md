@@ -33,7 +33,7 @@ O objetivo deste projeto é analisar um conjunto de dados de aluguel para identi
 
 ## Exemplo de Uso
 
-O notebook `Pandas_aluguel_análise(one).ipynb` contém o código para realizar a análise de dados de aluguel. Basta abrir o notebook e executar as células para ver os resultados.
+O notebook `Pandas_aluguel_análise(one).ipynb` contém o código para realizar a análise de dados de aluguel. Basta abrir o notebook e executar as células para ver os resultados. lembrando que pode usar o google colaboratory para execução
 
 ## Contribuição
 
