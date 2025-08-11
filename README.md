@@ -27,7 +27,7 @@ O objetivo deste projeto é analisar um conjunto de dados de aluguel para identi
 
 ## Como Executar
 
-1.  Clone o repositório: `git clone <URL do seu repositório>`
+1.  Clone o repositório: `git clone <https://github.com/fafavio/Python_pandas_aluguel_analise>`
 2.  Instale as dependências: `pip install pandas matplotlib seaborn`
 3.  Execute o script principal: `python analise_aluguel.py`
 
@@ -41,7 +41,7 @@ Contribuições são bem-vindas! Siga as etapas descritas acima para contribuir 
 
 ## Autores
 
-*   Seu Nome
+*   Flávio Resende Ribeiro
 
 ## Licença
 
