@@ -29,11 +29,11 @@ O objetivo deste projeto é analisar um conjunto de dados de aluguel para identi
 
 1.  Clone o repositório: `git clone <https://github.com/fafavio/Python_pandas_aluguel_analise>`
 2.  Instale as dependências: `pip install pandas matplotlib seaborn`
-3.  Execute o script principal: `python analise_aluguel.py`
+3.  Execute o script principal: `Pandas_aluguel_análise(one).ipynb`
 
 ## Exemplo de Uso
 
-O script principal (`analise_aluguel.py`) irá gerar diversas análises e visualizações dos dados de aluguel. Você pode modificar o script para realizar análises personalizadas.
+O notebook `Pandas_aluguel_análise(one).ipynb` contém o código para realizar a análise de dados de aluguel. Basta abrir o notebook e executar as células para ver os resultados.
 
 ## Contribuição
 
